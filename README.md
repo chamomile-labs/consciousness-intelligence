@@ -34,3 +34,4 @@ understand Chinese.
 - Unger's Zuboffian Brain Separation: A collection of widely scattered
 neurons could not itself be conscious
  ```
+- https://web.archive.org/web/20080211115918/http://www.umsl.edu/~piccininig/my%20research.html
